@@ -9,7 +9,7 @@
 
 colors = ["red", "blue", "wht", "green", "bk"]
 colors.each do |color|
-    if "color".lenth == 3
+    if "color".lenth == 4
         p color
     end
 
