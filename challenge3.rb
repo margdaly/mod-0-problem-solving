@@ -15,3 +15,5 @@ names.each do |name|
     p name 
   end
 end
+
+#prints teddy, tricia, and tom
