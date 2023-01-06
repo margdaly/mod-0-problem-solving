@@ -11,3 +11,5 @@ plants = ["CActus", "ROSE", "TRees", "daisIES"]
 plants.each do |plant|
     p plant.downcase
 end
+
+#prints all strings in lower case
